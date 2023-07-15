@@ -1,0 +1,22 @@
+{
+  "name": "cautious-bassoon",
+  "version": "1.0.0",
+  "description": "Backend server for redesigned-telegram",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullah-aa/cautious-bassoon.git"
+  },
+  "author": "Abdullah Akram Ansari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdullah-aa/cautious-bassoon/issues"
+  },
+  "homepage": "https://github.com/abdullah-aa/cautious-bassoon#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
